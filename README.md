@@ -1,5 +1,5 @@
 # Journ-Me App
-Journal App for the Google Africa Scholarship 2018. This is the second test of the course unit as required [here] https://github.com/abaeakili/Journ-Me/blob/master/Requirements.md.
+Journal App for the Google Africa Scholarship 2018. This is the second test of the course unit as required [here]https://github.com/abaeakili/Journ-Me/blob/master/Requirements.md).
 My Journal app allows users to log in and add journals on the app, syncronise using firebase to be available on a range of devices.
 
 ##### Current Features
@@ -56,39 +56,39 @@ You will need the following programs installed on your computer.
 * Gradle
 
 ### Wireframing:
-* [Mockplus] (www.mockplus.com/)
-* [Pen and Book - Balsamiq] (www.balsamiq.com) 
+* [Mockplus](www.mockplus.com/)
+* [Pen and Book - Balsamiq](www.balsamiq.com) 
 
 ### User-Interface Designing
-* [Sketch App] (www.sketchapp.com)
-* [Gravit Designer] (www.designer.io) 
+* [Sketch App](www.sketchapp.com)
+* [Gravit Designer](www.designer.io) 
 
 ### Prototyping
-* [Flinto] (www.flinto.com)
-* [Marvelapp] (www.marvelapp.com) 
-* [Invision] (www.invisionapp.com)
+* [Flinto](www.flinto.com)
+* [Marvelapp](www.marvelapp.com) 
+* [Invision](www.invisionapp.com)
 
 ### Collaborating 
-* [Slack] (www.slack.com)
-* [Skype] (www.skype.com)
-* [Telegram] (www.telegram.org)
-* [Whatsapp] (www.whatsapp.com)
+* [Slack](www.slack.com)
+* [Skype](www.skype.com)
+* [Telegram](www.telegram.org)
+* [Whatsapp](www.whatsapp.com)
 
 ### Task Management
-* [Basecamp] (www.basecamp.com)
-* [Trello] (www.trello.com)
-* [GetHarvest] (www.getharvest.com) 
+* [Basecamp](www.basecamp.com)
+* [Trello](www.trello.com)
+* [GetHarvest](www.getharvest.com) 
 
 ### Development
-* [Sublime Text] (www.sublimetext.com)
-* [Android Studio] (www.android.google.com)
-* [XCode]
+* [Sublime Text](www.sublimetext.com)
+* [Android Studio](www.android.google.com)
+* [Atom](atom.io)
 
-### [My Portfolio] (www.websolutions.co.ke)
+### [My Portfolio](www.websolutions.co.ke)
 
 ### Connect With Me:
-* [Portfolio] (https//abaeakili.github.io)
-* [Twitter] (twitter.com/abaeakili)
+* [Portfolio](https//abaeakili.github.io)
+* [Twitter](twitter.com/abaeakili)
 
 ## Acknowledgments
 
