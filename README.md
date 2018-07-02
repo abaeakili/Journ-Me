@@ -56,39 +56,39 @@ You will need the following programs installed on your computer.
 * Gradle
 
 ### Wireframing:
-* [Mockplus] www.mockplus.com/
-* [Pen and Book - Balsamiq] www.balsamiq.com 
+* [Mockplus] (www.mockplus.com/)
+* [Pen and Book - Balsamiq] (www.balsamiq.com) 
 
 ### User-Interface Designing
-* [Sketch App] www.sketchapp.com
-* [Gravit Designer] www.designer.io 
+* [Sketch App] (www.sketchapp.com)
+* [Gravit Designer] (www.designer.io) 
 
 ### Prototyping
-* [Flinto] www.flinto.com
-* [Marvelapp] www.marvelapp.com 
-* [Invision] www.invisionapp.com 
+* [Flinto] (www.flinto.com)
+* [Marvelapp] (www.marvelapp.com) 
+* [Invision] (www.invisionapp.com)
 
 ### Collaborating 
-* [Slack] www.slack.com
-* [Skype] www.skype.com
-* [Telegram] www.telegram.org
-* [Whatsapp] www.whatsapp.com
+* [Slack] (www.slack.com)
+* [Skype] (www.skype.com)
+* [Telegram] (www.telegram.org)
+* [Whatsapp] (www.whatsapp.com)
 
 ### Task Management
-* [Basecamp] www.basecamp.com
-* [Trello] www.trello.com
-* [GetHarvest] www.getharvest.com 
+* [Basecamp] (www.basecamp.com)
+* [Trello] (www.trello.com)
+* [GetHarvest] (www.getharvest.com) 
 
 ### Development
-* [Sublime Text] www.sublimetext.com
-* [Android Studio] www.android.google.com
+* [Sublime Text] (www.sublimetext.com)
+* [Android Studio] (www.android.google.com)
 * [XCode]
 
-### My Portfolio: www.websolutions.co.ke
+### [My Portfolio] (www.websolutions.co.ke)
 
 ### Connect With Me:
-* [Portfolio] https//abaeakili.github.io
-* [Twitter] twitter.com/abaeakili
+* [Portfolio] (https//abaeakili.github.io)
+* [Twitter] (twitter.com/abaeakili)
 
 ## Acknowledgments
 
