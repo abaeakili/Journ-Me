@@ -1,5 +1,5 @@
 # Journ-Me App
-Journal App for the Google Africa Scholarship 2018. This is the second test of the course unit as required [here]https://github.com/abaeakili/Journ-Me/blob/master/Requirements.md).
+Journal App for the Google Africa Scholarship 2018. This is the second test of the course unit as required [here](https://github.com/abaeakili/Journ-Me/blob/master/Requirements.md).
 My Journal app allows users to log in and add journals on the app, syncronise using firebase to be available on a range of devices.
 
 ##### Current Features
