@@ -84,11 +84,11 @@ You will need the following programs installed on your computer.
 * [Android Studio](www.android.google.com)
 * [Atom](atom.io)
 
-### [My Portfolio](www.websolutions.co.ke)
-
 ### Connect With Me:
-* [Portfolio](https//abaeakili.github.io)
+* [Github Portfolio](https//abaeakili.github.io)
+* [Web Portfolio](www.websolutions.co.ke)
 * [Twitter](twitter.com/abaeakili)
+* [Email](mailto:abae@websolutions.co.ke)
 
 ## Acknowledgments
 
